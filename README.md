@@ -26,3 +26,4 @@
 # References
 1. https://github.com/denisecase/setup-spark
 2. https://alvinalexander.com/scala/how-to-sort-map-in-scala-key-value-sortby-sortwith/
+3. https://spark.apache.org/docs/2.1.0/quick-start.html
