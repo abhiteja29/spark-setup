@@ -23,6 +23,9 @@
 ### Command used to display the first 10 values
 ### scala> val res10 = sortedResult.take(10);
 
+## Chart: 
+![Work Count](words.PNG)
+
 # References
 1. https://github.com/denisecase/setup-spark
 2. https://alvinalexander.com/scala/how-to-sort-map-in-scala-key-value-sortby-sortwith/
